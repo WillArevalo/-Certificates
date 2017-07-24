@@ -9,3 +9,5 @@ Its only a repository with  my  Certificates
 * Curso de Marketing Voz a Voz - _Certification Date Apr 2017 By Platzi_
 * Curso de programacion básica - _Certification Date Jan 2017 By Platzi_
 * Emprendimiento en el área de las App móviles - _By Universidad de Murcia_
+* Pentesting con Maltego - _Certification Date May 2016 By Backtrack Academy_
+* Enterprise Pentesting - _Certification Date Jul 2016 By Backtrack Academy_
