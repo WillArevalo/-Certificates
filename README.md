@@ -3,6 +3,8 @@ Its only a repository with  my  Certificates
 
 ## List
 
+* Curso de Python - _Certification Date Aug 2017 By Platzi_
+* Curso de Desarrollo Web Online - _Certification Date Aug 2017 By Platzi_
 * Curso de SQL y MySQL - _Certification Date Jul 2017 By Platzi_
 * Fundamentos de Marketing Digital - _Certification Date Jul 2017 By Google_
 * Curso de Introducción al Desarrollo Web - _Certification Date Jan 2017 By Univeristat d'Alacant_
