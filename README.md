@@ -3,6 +3,7 @@ Its only a repository with  my  Certificates
 
 ## List
 
+* Curso de PHP - _Certification Date Aug 2017 By Platzi_
 * Curso de Python - _Certification Date Aug 2017 By Platzi_
 * Curso de Desarrollo Web Online - _Certification Date Aug 2017 By Platzi_
 * Curso de SQL y MySQL - _Certification Date Jul 2017 By Platzi_
