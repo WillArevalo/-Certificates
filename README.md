@@ -3,6 +3,9 @@ Its only a repository with  my  Certificates
 
 ## List
 
+* Curso de Big Data y Ciencia de Datos - _Certification Date Sep 2017 By Platzi_
+* Introducción a terminal y línea de comandos - _Certification Date Sep 2017 By Platzi_
+* Curso de Temas y Plugins en WordPress - _Certification Date Sep 2017 By Platzi_
 * Curso de PHP - _Certification Date Aug 2017 By Platzi_
 * Curso de Python - _Certification Date Aug 2017 By Platzi_
 * Curso de Desarrollo Web Online - _Certification Date Aug 2017 By Platzi_
