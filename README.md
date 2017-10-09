@@ -11,7 +11,7 @@ Its only a repository with  my Certificates and Careers
 * [Curso de Python - _Certification Date Aug 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-python.pdf)
 * [Curso de Desarrollo Web Online - _Certification Date Aug 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-html5-css3.pdf)
 * [Curso de SQL y MySQL - _Certification Date Jul 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-sql-mysql.pdf)
-* [Fundamentos de Marketing Digital - _Certification Date Jul 2017 By Google_](https://github.com/WillArevalo/-Certificates/blob/master/Certificación Garage Digital.pdf)
+* [Fundamentos de Marketing Digital - _Certification Date Jul 2017 By Google_]('https://github.com/WillArevalo/-Certificates/blob/master/Certificación Garage Digital.pdf')
 * [Curso de Introducción al Desarrollo Web - _Certification Date Jan 2017 By Univeristat d'Alacant_](https://github.com/WillArevalo/-Certificates/blob/master/certificado.pdf)
 
 * [Curso en linea Git y Github - _Certification Date Jan 2017 By Udemy_](https://github.com/WillArevalo/-Certificates/blob/master/UC-N7ZJ1Z70.pdf)
