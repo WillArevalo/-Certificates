@@ -1,8 +1,9 @@
-# _Certificates_
-Its only a repository with  my  Certificates
+# _Certificates and Careers_ 
+Its only a repository with  my Certificates and Careers
 
-## List
+## List Certificates
 
+* Introducción a Machine Learning - _Certification Date Oct 2017 By Platzi_
 * Curso de Big Data y Ciencia de Datos - _Certification Date Sep 2017 By Platzi_
 * Introducción a terminal y línea de comandos - _Certification Date Sep 2017 By Platzi_
 * Curso de Temas y Plugins en WordPress - _Certification Date Sep 2017 By Platzi_
@@ -19,3 +20,5 @@ Its only a repository with  my  Certificates
 * Pentesting con Maltego - _Certification Date May 2016 By Backtrack Academy_
 * Enterprise Pentesting - _Certification Date Jul 2016 By Backtrack Academy_
 
+## List Careers
+* [https://github.com/WillArevalo/-Certificates/blob/master/diploma-desarrollo-wordpress.pdf](Carrera de desarrollo con Wordpress - _Diploma Date Oct 2017 by Platzi_)
