@@ -21,4 +21,4 @@ Its only a repository with  my Certificates and Careers
 * Enterprise Pentesting - _Certification Date Jul 2016 By Backtrack Academy_
 
 ## List Careers
-* [https://github.com/WillArevalo/-Certificates/blob/master/diploma-desarrollo-wordpress.pdf](Carrera de desarrollo con Wordpress - _Diploma Date Oct 2017 by Platzi_)
+* [Carrera de desarrollo con Wordpress - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-desarrollo-wordpress.pdf)
