@@ -2,7 +2,7 @@
 Its only a repository with  my Certificates and Careers
 
 ## List Certificates :pencil:
-* [Curso de Introducción a la Seguridad Informatica - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
+* [Curso de Introducción a la Seguridad Informatica &ensp; - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
 * [Curso de Administración de Servidores Linux - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-linux.pdf)
 * [Introducción a Machine Learning - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-ia.pdf)
 * [Curso de Big Data y Ciencia de Datos - _Certification Date Sep 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-data.pdf)
