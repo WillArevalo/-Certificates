@@ -2,6 +2,7 @@
 Its only a repository with  my Certificates and Careers
 
 ## List Certificates :pencil:
+* [Curso de Pentesting - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-pentesting.pdf)
 * [Curso de Introducción a la Seguridad Informatica - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
 * [Curso de Administración de Servidores Linux - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-linux.pdf)
 * [Introducción a Machine Learning - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-ia.pdf)
@@ -23,4 +24,6 @@ Its only a repository with  my Certificates and Careers
 * [Enterprise Pentesting - _Certification Date Jul 2016 By Backtrack Academy_](https://github.com/WillArevalo/-Certificates/blob/master/Enterprise%20pentesting.pdf)
 
 ## List Careers :100: 
+* [Carrera de Seguridad informatica - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
 * [Carrera de desarrollo con Wordpress - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-desarrollo-wordpress.pdf)
+
