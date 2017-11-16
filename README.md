@@ -2,6 +2,8 @@
 Its only a repository with  my Certificates and Careers
 
 ## List Certificates :pencil:
+
+* [Curso de Git y Github - _Certification Date Nov 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-git-github.pdf)
 * [Curso de Pentesting - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-pentesting.pdf)
 * [Curso de Introducción a la Seguridad Informatica - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
 * [Curso de Administración de Servidores Linux - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-linux.pdf)
