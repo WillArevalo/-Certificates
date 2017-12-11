@@ -3,8 +3,11 @@ Its only a repository with  my Certificates and Careers
 
 ## List Certificates :pencil:
 
+* [Curso de Redes Neuoranales y Backpropagation - _Certification Date Nov 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-redes-neuronales.pdf)
+* [Curso Profesional de Data Science - _Certification Date Dec 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/mater/diploma-datascience.pdf)
+* [Curso de Fundamentos de Bases de Datos - _Certification Date Nov 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-bd.pdf)
 * [Curso de introducción a la creacion de empresas y Startups - _Certification Date Nov 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-creacion-de-empresas.pdf)
-* [Curso de Git y Github - _Certification Date Nov 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-git-github.pdf)
+* [Curso profesional de Git y Github - _Certification Date Nov 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-git-github.pdf)
 * [Curso de Pentesting - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-pentesting.pdf)
 * [Curso de Introducción a la Seguridad Informatica - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
 * [Curso de Administración de Servidores Linux - _Certification Date Oct 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-linux.pdf)
