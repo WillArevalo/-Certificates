@@ -32,4 +32,5 @@ Its only a repository with  my Certificates and Careers
 ## List Careers :100: 
 * [Carrera de Seguridad informatica - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
 * [Carrera de desarrollo con Wordpress - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-desarrollo-wordpress.pdf)
-
+* [Carrera de desarrollo backend con Python - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-backend-python.pdf)
+* [Carrera de Big Data y Data Science - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-datos.pdf)
