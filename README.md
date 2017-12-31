@@ -3,6 +3,7 @@ Its only a repository with  my Certificates and Careers
 
 ## List Certificates :pencil:
 
+* [Curso de Fundamentos Javascript - _Certification Date Dec 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-fundamentos-javascript.pdf)
 * [Curso de Metodologias Ágiles y Scrum - _Certification Date Dec 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-scrum.pdf)
 * [Curso de Redes Neuronales y Backpropagation - _Certification Date Nov 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-redes-neuronales.pdf)
 * [Curso Profesional de Data Science - _Certification Date Dec 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-datascience.pdf)
@@ -31,7 +32,9 @@ Its only a repository with  my Certificates and Careers
 * [Enterprise Pentesting - _Certification Date Jul 2016 By Backtrack Academy_](https://github.com/WillArevalo/-Certificates/blob/master/Enterprise%20pentesting.pdf)
 
 ## List Careers :100: 
+
 * [Carrera de Seguridad informatica - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
 * [Carrera de desarrollo con Wordpress - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-desarrollo-wordpress.pdf)
+* [Carrera de Arquitecto Frontend - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-arquitecto.pdf)
 * [Carrera de desarrollo backend con Python - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-backend-python.pdf)
 * [Carrera de Big Data y Data Science - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-datos.pdf)
