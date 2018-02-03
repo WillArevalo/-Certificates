@@ -3,6 +3,8 @@ Its only a repository with  my Certificates and Careers
 
 ## List Certificates :pencil:
 
+* [Curso de React JS - _Certification Date Jan 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-react.pdf)
+* [Curso de Magento 2 - _Certification Date Jan 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-magento.pdf)
 * [Curso de Fundamentos Javascript - _Certification Date Dec 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-fundamentos-javascript.pdf)
 * [Curso de Metodologias Ágiles y Scrum - _Certification Date Dec 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-scrum.pdf)
 * [Curso de Redes Neuronales y Backpropagation - _Certification Date Nov 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-redes-neuronales.pdf)
