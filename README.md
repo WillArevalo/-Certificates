@@ -35,8 +35,10 @@ Its only a repository with  my Certificates and Careers
 
 ## List Careers :100: 
 
-* [Carrera de Seguridad informatica - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
-* [Carrera de desarrollo con Wordpress - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-desarrollo-wordpress.pdf)
-* [Carrera de Arquitecto Frontend - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-arquitecto.pdf)
-* [Carrera de desarrollo backend con Python - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-backend-python.pdf)
+* [Carrera de Inteligencia Artificial - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-ai.pdf)
 * [Carrera de Big Data y Data Science - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-datos.pdf)
+* [Carrera de Desarrollo backend con Python - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-backend-python.pdf)
+* [Carrera de Arquitecto Frontend - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-arquitecto.pdf)
+* [Carrera de Seguridad informatica - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad-informatica.pdf)
+* [Carrera de Desarrollo con Wordpress - _Diploma Date Oct 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-desarrollo-wordpress.pdf)
+* [Carrera de Fundamentos de Programación - _Diploma Date Jan 2018 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-fundamentos-programacion.pdf)
