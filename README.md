@@ -3,7 +3,8 @@ Its only a repository with  my Certificates and Careers
 
 ## List Certificates :pencil: 
 
-* [Curso de arquitectura de software - _Certification Date Mar 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-arquitectura-software.pdf)
+* [Curso de Probabilidad y Estadistica - _Certification Date Mar 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-probabilidad-estadistica.pdf)
+* [Curso de Arquitectura de Software - _Certification Date Mar 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-arquitectura-software.pdf)
 * [Curso de Django - _Certification Date Mar 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-django.pdf)
 * [Curso de React JS - _Certification Date Jan 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-react.pdf)
 * [Curso de Magento 2 - _Certification Date Jan 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-magento.pdf)
