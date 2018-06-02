@@ -3,6 +3,8 @@ Its only a repository with  my Certificates and Careers
 
 ## List Certificates :pencil: 
 
+* [Fundamentos de Google Cloud Platform - _Certification Date Jun 2018 By Platzi & Xertica_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-fundamentos-google.pdf)
+* [Analisis de Vulnerabilidades con OWASP - _Certification Date Jun 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-seguridad.pdf)
 * [Curso de Probabilidad y Estadistica - _Certification Date May 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-probabilidad-estadistica.pdf)
 * [Curso de Arquitectura de Software - _Certification Date Mar 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-arquitectura-software.pdf)
 * [Curso de Django - _Certification Date Mar 2018 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-django.pdf)
@@ -28,7 +30,6 @@ Its only a repository with  my Certificates and Careers
 * [Curso de SQL y MySQL - _Certification Date Jul 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-sql-mysql.pdf)
 * [Fundamentos de Marketing Digital - _Certification Date Jul 2017 By Google_](https://github.com/WillArevalo/-Certificates/blob/master/Certificaci%C3%B3n%20Garage%20Digital.pdf)
 * [Curso de Introducción al Desarrollo Web - _Certification Date Jan 2017 By Univeristat d'Alacant_](https://github.com/WillArevalo/-Certificates/blob/master/certificado.pdf)
-
 * [Curso en linea Git y Github - _Certification Date Jan 2017 By Udemy_](https://github.com/WillArevalo/-Certificates/blob/master/UC-N7ZJ1Z70.pdf)
 * [Curso de Marketing Voz a Voz - _Certification Date Apr 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-marketing-voz.pdf)
 * [Curso de programacion básica - _Certification Date Jan 2017 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-programacion-basica.pdf)
