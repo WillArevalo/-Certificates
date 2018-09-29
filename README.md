@@ -1,7 +1,7 @@
 # _Certificates and Careers_ 📚
 Its only a repository with  my Certificates and Careers
 
-## List Certificates :pencil: 
+## Certificates List :pencil: 
 
 * [Curso de Google App Engine - _Certification Date Jul 2018 By Platzi & Xertica_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-app-engine.pdf)
 * [Google Cloud Platform Big Data and Machine Learning Fundamentals - _Certification Date Jun 2018 By Coursera & Google_](https://github.com/WillArevalo/-Certificates/blob/master/'Coursera.pdf)
@@ -39,7 +39,7 @@ Its only a repository with  my Certificates and Careers
 * [Pentesting con Maltego - _Certification Date May 2016 By Backtrack Academy_](https://github.com/WillArevalo/-Certificates/blob/master/Pentesting%20Maltego.pdf)
 * [Enterprise Pentesting - _Certification Date Jul 2016 By Backtrack Academy_](https://github.com/WillArevalo/-Certificates/blob/master/Enterprise%20pentesting.pdf)
 
-## List Careers :100: 
+## Careers List :100: 
 
 * [Carrera de Inteligencia Artificial - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-ai.pdf)
 * [Carrera de Big Data y Data Science - _Diploma Date Dec 2017 by Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-datos.pdf)
