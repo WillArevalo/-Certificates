@@ -3,6 +3,7 @@ Its only a repository with  my Certificates and Careers
 
 ## Certificates List :pencil: 
 
+* [Curso de Postgresql para ciencia de datos - _Certification Date Jul 2020 By Platzi_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-postgresql-datos.pdf)
 * [Curso de Google App Engine - _Certification Date Jul 2018 By Platzi & Xertica_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-app-engine.pdf)
 * [Google Cloud Platform Big Data and Machine Learning Fundamentals - _Certification Date Jun 2018 By Coursera & Google_](https://github.com/WillArevalo/-Certificates/blob/master/'Coursera.pdf)
 * [Fundamentos de Google Cloud Platform - _Certification Date Jun 2018 By Platzi & Xertica_](https://github.com/WillArevalo/-Certificates/blob/master/diploma-fundamentos-google.pdf)
